@@ -9,10 +9,12 @@ As an employer or employee, it is important to keep track of your team members i
 - User has the option to add either a intern, manager, or engineer
 - User can add heir team members contacf information, such as their email and github
 
+
 ## Credit
 
-Trishane Wijeyawickrema
+### Trishane Wijeyawickrema
+Link to Trishane's [Github Profile](https://github.com/Trishaneww)
 
-## Lisence
+## Liscence
 
 N/A
